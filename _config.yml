@@ -1,5 +1,5 @@
-auto: true
-safe: true
+auto: false
+safe: false
 lsi: false
 pygments: true
 author: Eugene Burtsev
